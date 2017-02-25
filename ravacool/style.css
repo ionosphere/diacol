@@ -1,0 +1,42 @@
+.entete {
+    height: 40px;
+		text-align : center;
+		color: white;
+		font-size : 200%;
+		background-color: #5577FF;
+		margin-bottom: 10px;
+}
+
+
+.visu {
+		margin-top: 10px;
+		color: black;
+		font-size: 12pt;
+		font-family: sans-serif;
+}
+
+.facet {
+		font-size: 12pt;
+		display: block;
+		float: left;
+		width: 25%;
+}
+
+h3 {
+		font-size: 14pt;
+		background: #DDDDDD;
+}
+
+.carte {
+		width: 70%;
+		margin-left: 20px;
+		display: block;
+		float: left;
+}
+
+/*
+.odswidget-map {
+		height: 600px;
+} */
+
+#mapid { height: 500px; }
